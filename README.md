@@ -1,0 +1,2 @@
+# squidreco
+bu bir virüsdür 
